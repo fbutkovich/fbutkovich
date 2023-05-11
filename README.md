@@ -1,5 +1,5 @@
 <h1 align="center">Welcome, my name is Fabian Butkovich</h1>
-<h3 align="center">I’m an extremely versatile individual passionate about both disciplines of the electronics engineering field, including hardware and software development. End-use product design and embedded systems are some of the specific areas of engineering I strive to be in. Deep sky astrophotography is a hobby I enjoy pursuing and I love that I am able to use my engineering knowledge to develop gadgets and solutions to support this field of science and art.</h3>
+<h3 align="left">I’m an extremely versatile individual passionate about both disciplines of the electronics engineering field, including hardware and software development. End-use product design and embedded systems are some of the specific areas of engineering I strive to be in. Deep sky astrophotography is a hobby I enjoy pursuing and I love that I am able to use my engineering knowledge to develop gadgets and solutions to support this field of science and art.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fbutkovich&label=Profile%20views&color=0e75b6&style=flat" alt="fbutkovich" /> </p>
 
